@@ -22,6 +22,10 @@ This is a refresher exercise to reaquaint students with basic microcontroller us
 
 ![breadboard diagram](assets/esp8266-led-circuit-diagram_bb.svg)
 
+<br />
+
+<img src="assets/wemos-d1-mini-pinout.png" width=50% />
+
 
 2. Open the led-blink sketch and run it. Does the LED blink?
 
